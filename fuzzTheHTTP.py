@@ -14,8 +14,7 @@ import urllib
 import logging
 from urllib import urlencode
 from itertools import product
-from zoombaFuzz import utils
-from zoombaFuzz import encoderlib
+from zoombaFuzz import helpers
 from zoombaFuzz import fuzzdb
 
 import os
