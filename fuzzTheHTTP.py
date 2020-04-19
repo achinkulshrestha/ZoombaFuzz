@@ -4,7 +4,6 @@ zoombaFuzz - A Brainless Brute force Fuzzer
 usage: PROGRAM [options] <...>
 	-v	Verbose logging
 	-l log_file Log output to logfile
-Copyright (C) 2013 Achin K, mail: achin.kulshrestha@citrix.com
 """
 # import suds
 import urllib2
